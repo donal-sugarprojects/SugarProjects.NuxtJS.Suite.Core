@@ -1,11 +1,8 @@
 {
-  "name": "sugarprojects.nuxtjs.suite.core",
-  "version": "1.0.0",
+  "name": "@donal-sugarprojects/sp-suite-core",
+  "version": "0.0.1",
   "description": "A SugarProjects Nuxt module providing core UI components and helper scripts",
-  "main": "debug.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "module.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/donal-sugarprojects/SugarProjects.NuxtJS.Suite.Core.git"
