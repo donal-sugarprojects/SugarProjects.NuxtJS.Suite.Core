@@ -1,0 +1,29 @@
+{
+  "name": "sugarprojects.nuxtjs.suite.core",
+  "version": "1.0.0",
+  "description": "A SugarProjects Nuxt module providing core UI components and helper scripts",
+  "main": "debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donal-sugarprojects/SugarProjects.NuxtJS.Suite.Core.git"
+  },
+  "author": "Donal Boyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donal-sugarprojects/SugarProjects.NuxtJS.Suite.Core/issues"
+  },
+  "homepage": "https://github.com/donal-sugarprojects/SugarProjects.NuxtJS.Suite.Core#readme",
+
+  "bundleDependencies": false,
+  "dependencies": {
+    "showdown": "^1.9.1",
+    "uikit": "^3.2.1"
+  }
+
+  
+}
+
+
